@@ -23,6 +23,7 @@ This Excel file contains a Walmart Sales Dashboard with the following sheets:
    - **KPI** – for summary metrics.
 4. If you want an interactive online version, you can open this dashboard in **Google Sheets** using this link:  
 [View Dashboard Online](https://docs.google.com/spreadsheets/d/169YlLe034DaFtsIz8bdXxP8ON0G7xB8m/edit?usp=sharing&ouid=105918322245670371947&rtpof=true&sd=true)
+5. ![Dashboard Screenshot](images/dashboard1.png)
 
 ---
 
